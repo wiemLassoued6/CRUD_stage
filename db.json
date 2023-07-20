@@ -1,0 +1,24 @@
+{
+  "produit": [
+    {
+      "id": 5,
+      "nom": "car",
+      "prix": "52",
+      "quantite": "10"
+    },
+    {
+      "nom": "robo",
+      "prix": "20",
+      "quantite": "300",
+      "active": true,
+      "id": 6
+    },
+    {
+      "nom": "clé",
+      "prix": "52",
+      "quantite": "20",
+      "active": true,
+      "id": 7
+    }
+  ]
+}
